@@ -21,7 +21,7 @@ public class Unit2_9MathClass {
 		double squareRoot = Math.sqrt(57);
 		System.out.println(squareRoot);
 
-		// random = get random number from 0.0 to 1.0
+		// random = get random number from 0.00001 to 0.99999
 		double randomNum = Math.random();
 		System.out.println(randomNum);
 		// multiply by 10 and make an int to get random number from 1-10
